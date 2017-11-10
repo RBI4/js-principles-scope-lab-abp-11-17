@@ -6,5 +6,17 @@
     }
 
 function setBestCustomer(){
-  var bestCustomer = 'not bob';
+  bestCustomer = 'not bob';
+}
+
+function leastFavoriteCustomer(){
+  
+}
+
+function changeLeastFavoriteCustomer(){
+  
+}
+
+function attemptTwoFavoriteCustomers(){
+  
 }
